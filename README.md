@@ -12,7 +12,7 @@
 
 <img align="right" width="50%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=CcSimple&show_icons=true&theme=tokyonight"/>
 <img align="right" width="50%" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CcSimple&layout=compact&theme=tokyonight"/>
-<img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
+<!-- <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" /> -->
 
 **技术栈:**
 
