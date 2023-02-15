@@ -3,8 +3,8 @@
 
 <table border="0">
     <tr>
-    <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=CcSimple&repo=vue-plugin-hiprint"/></td>
-    <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=CcSimple&repo=sv-print-docs"/></td>
+    <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=CcSimple&repo=vue-plugin-hiprint&theme=tokyonight"/></td>
+    <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=CcSimple&repo=sv-print-docs&theme=tokyonight"/></td>
     </tr>
 </table>
 
